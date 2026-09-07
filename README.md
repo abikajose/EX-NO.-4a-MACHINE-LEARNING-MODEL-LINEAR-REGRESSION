@@ -13,7 +13,7 @@ o	distance_to_city(km)
 o	price 
 ## DATASET DESCRIPTION
 •	Dataset: House Price Dataset 
-•	Problem: Predict house price. 
+•	Problem: Predict house price.
 •	Features (X): 
 o	square_feet – size of the house. 
 o	num_rooms – number of rooms. 
